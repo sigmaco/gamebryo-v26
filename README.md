@@ -1,5 +1,6 @@
 # Gamebryo 2 (2.6.0.0), Windows-PC
 SDK do middleware Gamebryo na versão 2.6.0.0 de 2008-10-24.
+[https://republicasigma.com.br/p/gamebryo/]
 
 Note que aqui há apenas os arquivos de cabeçalho (.h) do código-origem do SDK. Foi optado não usar incluir os arquivos de códigos (.cpp) para não fomentar um takedown do repositório.
 
